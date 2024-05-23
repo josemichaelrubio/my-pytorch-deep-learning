@@ -1,0 +1,11 @@
+name: .conda
+channels:
+  - defaults
+dependencies:
+  - python=3.12.3
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - torchvision
