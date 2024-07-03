@@ -1,4 +1,6 @@
-# Updating & Installing requirements.txt 
+# Updating & Installing requirements.txt
+
+**NOTE**: since we are running a Conda environment, start will with these steps first: [environment-yml_cheatsheet.md](enironment-yml_cheatsheet.md).
 
 Remember to back up your current environment before performing these operations, especially if you’re working on critical projects. This way, you can restore your environment if needed.
 

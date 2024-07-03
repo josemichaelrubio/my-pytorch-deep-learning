@@ -25,3 +25,18 @@ Here is my GitHub repo for this project: [my-pytorch-deep-learning](https://gith
 - RAM: 16GB
 
 Full Specs from Apple: [MacBook Pro Documentation](https://support.apple.com/en-us/111901)
+
+## Directories
+
+### docs/
+
+this directory contains useful resources that will aid in this project and beyond
+
+### images/
+
+contains images used in this project
+
+### notebooks/
+
+Contains all the .ipynb files as well as the `models/`
+
