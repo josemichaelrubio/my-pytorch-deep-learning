@@ -48,6 +48,16 @@ And for the requirements.txt:
 
     conda list -e > requirements.txt
 
+## Updating Conda and it's packages
+
+First, update Conda itself:
+
+    conda update -n base conda
+
+Then, update all the packages that Conda manages:
+
+    conda update --all
+
 ## More documentation on requirement.txt
 
 If you need more info on importing and exporting the requirements.txt file, go here: [Update_Install_requirements-txt.md](Update_Install_requirements-txt.md)
