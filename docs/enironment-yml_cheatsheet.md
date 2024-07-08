@@ -42,7 +42,7 @@ The purpose to export a Conda environment to a .yml file is for reproducibility,
 
 To export or update the environment.yml file, we use the same command which will create a new file if it doesnt exist or erase then write over the existing file:
 
-    conda env export > environment.yml
+    conda env export > envs/environment.yml
 
 And for the requirements.txt:
 
