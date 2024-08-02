@@ -39,3 +39,7 @@ contains images used in this project
 ### notebooks/
 
 Contains all the .ipynb files as well as the `models/`
+
+## BTW
+
+SWITCHED TO PC SOMEWHERE IN 02
